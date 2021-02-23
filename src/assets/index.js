@@ -1,0 +1,5 @@
+export const main_bg = require('./images/0_Splash_Screen.png')
+export const logo = require('./images/Logo.png')
+export const facebook = require('./images/Facebook.png')
+export const google = require('./images/Google.png')
+export const insta = require('./images/Instagram.png')
